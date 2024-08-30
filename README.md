@@ -21,7 +21,7 @@ Before you begin, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/andreluiz27/forecast_fetch.git
 cd repository-name
 ```
 
