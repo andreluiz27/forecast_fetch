@@ -1,0 +1,5 @@
+motor==2.5.1
+uvicorn
+fastapi
+httpx
+
