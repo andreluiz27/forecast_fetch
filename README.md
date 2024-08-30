@@ -45,8 +45,8 @@ http://localhost:8000
 
 You can access the automatically generated API documentation at:
 
-- Swagger UI: [http://localhost:8989/docs](http://localhost:8000/docs)
-- ReDoc: [http://localhost:8989/redoc](http://localhost:8000/redoc)
+- Swagger UI: [http://localhost:8989/docs](http://localhost:8989/docs)
+- ReDoc: [http://localhost:8989/redoc](http://localhost:8989/redoc)
 
 ## Stopping the Application
 
