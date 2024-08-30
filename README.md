@@ -8,6 +8,8 @@ This is a basic FastAPI application containerized with Docker. This API gets wea
   * The code could improve with some dependency injection
   * requirements.txt does not specify versions, this is never a good idea
   * Commits were pushed with sensitive data, because this is not a serious projects it's okay but in a real project this must not be done
+  * Mongodb has no credential, in a real project this should be restricted
+  * The folder structure is loose, in a real FastAPI project this structure would have to be way more organized
     
 ## Prerequisites
 
