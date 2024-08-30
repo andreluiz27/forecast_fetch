@@ -38,7 +38,7 @@ docker-compose up --build
 Open your browser and go to:
 
 ```
-http://localhost:8000
+http://localhost:8989
 ```
 
 ### 4. API Documentation
