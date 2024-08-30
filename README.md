@@ -5,7 +5,7 @@ This is a basic FastAPI application containerized with Docker. This API gets wea
 
 ## Notes
   * Tests were done but for some reason is not working
-  * The code could be improve with dependency injection
+  * The code could improve with some dependency injection
   * requirements.txt does not specify versions, this is never a good idea
   * Commits were pushed with sensitive data, because this is not a serious projects it's okay but in a real project this must not be done
     
