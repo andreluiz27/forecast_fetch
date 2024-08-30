@@ -2,4 +2,8 @@ motor==2.5.1
 uvicorn
 fastapi
 httpx
-
+pytest
+anyio
+pytest-asyncio
+pytest-tornasync
+pytest-trio
